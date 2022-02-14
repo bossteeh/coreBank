@@ -1,1 +1,1 @@
-# coreBank
+# this project coreBank is a website for corebank customers.
